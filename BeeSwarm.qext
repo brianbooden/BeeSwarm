@@ -1,0 +1,9 @@
+{
+	"name" : "BeeSwarm",
+	"description" : "A beeswarm plot is a one-dimensional plot, that is, a plot where just one axis contains information. Unlike a stripchart, the points don’t overlap in a beeswarm plot.",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "table",
+	"author": "Brian Booden"
+}
