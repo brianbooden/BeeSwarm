@@ -3,7 +3,7 @@ BeeSwarm
 
 Beeswarm chart based on d3v4 using d3.forcesimulation.  A sample QVF based on FIFA 14 data is provided.
 
-In short, a beeswarm plot is a one-dimensional plot, that is, a plot where just one axis contains information. Unlike a stripchart, the points don’t overlap in a beeswarm plot.
+In short, a beeswarm plot is a one-dimensional plot, that is, a plot where just one axis contains information. Unlike a stripchart, the points donâ€™t overlap in a beeswarm plot.
 
 ![Qlik Sense Extension BeeSwarm](Qlik Sense BeeSwarm Extension.gif)
 
@@ -33,8 +33,6 @@ Functionality
 The beeswarm plots points onto a single axis using force collision functionality provided by Mike Bostock using v4 of the d3js javascript library.
 
 Seletions can be made by brushing on the chart.  The selections are Qlik Sense selections and the QIX engine processes them accordingly.
-
-Note that the extension 
 
 Future improvements:
 --------------------
